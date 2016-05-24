@@ -1,0 +1,16 @@
+{
+  "name": "demo02",
+  "version": "1.0.0",
+  "description": "'node抓取网络图片'",
+  "main": "server.js",
+  "devDependencies": {
+    "cheerio": "^0.20.0",
+    "request": "^2.72.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "yuanqiao",
+  "license": "ISC"
+}
