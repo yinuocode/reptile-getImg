@@ -1,5 +1,5 @@
 {
-  "name": "demo02",
+  "name": "reptile-gitImg",
   "version": "1.0.0",
   "description": "'node抓取网络图片'",
   "main": "server.js",
